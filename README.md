@@ -26,15 +26,15 @@
 <h2 align="center">🤝 Connect with Me 🤝</h2>
 <div align="center">
   
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:rishipatel6147@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/50/000000/gmail-new.png" width=50 height=50 alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/your_instagram/" target="_blank">
+<a href="https://www.instagram.com/ayyo.its_rishi_/" target="_blank">
 <img src="https://img.icons8.com/color/50/000000/instagram-new.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/your-github-username" target="_blank">
+<a href="https://github.com/Rishi4227" target="_blank">
 <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 
