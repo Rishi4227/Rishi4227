@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rishi4227! 👋
+🎓 Computer Science Student | 🌟 Passionate about AI and Web Development
 
-<!--
-**Rishi4227/Rishi4227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Programming: Python, JavaScript, Kotlin
+- Frameworks: React, Django
+- AI/ML: TensorFlow, PyTorch
+- Other: Git, Docker, REST APIs
 
-Here are some ideas to get you started:
+## 🔥 My Projects
+- **[Twitter Sentiment Analysis](#)**: Real-time analysis of Twitter sentiments.
+- **[Face API JS Project](#)**: An app using face recognition API.
+- **[EuroConnect Telecom App](#)**: A management app for telecom operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Find me on
+- [Portfolio](#) (Add your portfolio link here)
+- [LinkedIn](#) (Add your LinkedIn profile link here)
+- [Blog](#) (If applicable, add your blog link)
+
+## 📫 How to Reach Me
+- Email: [your-email@example.com](mailto:your-email@example.com)
