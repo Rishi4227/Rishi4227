@@ -1,3 +1,6 @@
+<!--Banner-->
+![Welcome Banner](./gif.gif)
+
 # Hi, I'm Rishi4227! 👋
 🎓 Computer Science Student | 🌟 Passionate about AI and Web Development
 
