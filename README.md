@@ -1,5 +1,5 @@
-<!-- Resized Banner -->
-<img src="./gif.gif" alt="Banner" width="100%" height="400">
+<img src="./gif.gif" alt="Banner" width="800">
+
 
 
 # Hi, I'm Rishi4227! 👋
