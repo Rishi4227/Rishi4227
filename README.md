@@ -1,5 +1,6 @@
-<!--Banner-->
-![Welcome Banner](./gif.gif)
+<!-- Resized Banner -->
+<img src="./gif.gif" alt="Banner" width="100%" height="auto">
+
 
 # Hi, I'm Rishi4227! 👋
 🎓 Computer Science Student | 🌟 Passionate about AI and Web Development
