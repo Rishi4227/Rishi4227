@@ -12,9 +12,10 @@
 - Other: Git, Docker, REST APIs
 
 ## 🔥 My Projects
-- **[Twitter Sentiment Analysis](https://github.com/Rishi4227/Twitter_Sentiment_Analysis)**: Real-time analysis of Twitter sentiments.
-- **[Face API JS Project](https://github.com/Rishi4227/Face-api-js-project)**: An app using face recognition API.
-- **[EuroConnect Telecom App](https://github.com/Rishi4227/EuroConnect-TeleCom-App)**: A management app for telecom operations.
+- **[Twitter Sentiment Analysis](#)**: Real-time analysis of Twitter sentiments.
+- **[Face API JS Project](#)**: An app using face recognition API.
+- **[EuroConnect Telecom App](#)**: A management app for telecom operations.
+- Get access to repository on request 
 
 
 ## 🌐 Find me on
