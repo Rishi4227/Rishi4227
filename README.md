@@ -23,6 +23,14 @@
 - [LinkedIn](#) (Add your LinkedIn profile link here)
 - [Blog](#) (If applicable, add your blog link)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishi4227&label=Profile+Views&color=blue&style=flat" alt="Profile Views">
+</p>
+
+## 😂 A Little Humor
+> "Why do programmers prefer dark mode?  
+> Because light attracts bugs!"
+
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Connect with Me 🤝</h2>
