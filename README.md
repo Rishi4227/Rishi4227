@@ -1,9 +1,10 @@
 <!--Banner-->
 ![Welcome Banner](./resize.gif)
 
-
-# Hi, I'm Rishi4227! 👋
+# Hi, I'm Rishi Patel! 👋
 🎓 Computer Science Student | 🌟 Passionate about AI and Web Development
+
+---
 
 ## 🛠️ Skills
 - Programming: Python, JavaScript, Kotlin
@@ -11,17 +12,40 @@
 - AI/ML: TensorFlow, PyTorch
 - Other: Git, Docker, REST APIs
 
+---
+
 ## 🔥 My Projects
 - **[Twitter Sentiment Analysis](#)**: Real-time analysis of Twitter sentiments.
 - **[Face API JS Project](#)**: An app using face recognition API.
 - **[EuroConnect Telecom App](#)**: A management app for telecom operations.
 
-## 🌐 Find me on
-- [Portfolio](#) (Add your portfolio link here)
-- [LinkedIn](#) (Add your LinkedIn profile link here)
-- [Blog](#) (If applicable, add your blog link)
+---
 
-<!--Contact Section--> 
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi4227&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Rishi4227&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi4227&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishi4227&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi4227&theme=radical" alt="Contribution Graph" />
+</p>
+
+---
 
 <h2 align="center">🤝 Connect with Me 🤝</h2>
 <div align="center">
@@ -39,5 +63,9 @@
 </a>
 
 </div>
-<br/>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
+</p>
