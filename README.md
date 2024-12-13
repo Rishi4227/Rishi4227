@@ -56,23 +56,36 @@
 
 ## 🔥 My Projects
 Here are some of the projects I’ve worked on during my studies:
+### 1. CBT-Inspired Multimodal Emotion Recognition Tool
+- **Description**: Developed a comprehensive web application for individuals with Autism Spectrum Disorder (ASD) that integrates:
+  - Facial recognition using **Face-API.js**.
+  - Voice tone analysis with datasets like **RAVDESS** and **TESS**.
+  - Sentiment analysis using **BERT** for text communication.
+- **Features**:
+  - Real-time multimodal emotion recognition.
+  - Adaptive CBT-inspired interventions such as guided relaxation, cognitive restructuring, and journaling prompts.
+  - Customizable sensory settings for accessibility.
+- **Technology Stack**: TensorFlow, PyTorch, Dash Framework, and Cloud Hosting.
+- *Repository available upon request.*
 
-### 1. **[Twitter Sentiment Analysis Using RoBERTa](#)**
-- Analyzing airline-related tweets to classify sentiments using the **RoBERTa** model.
-- Achieved an **F1-Score of 85.2%**, outperforming traditional methods like Logistic Regression.
-- Integrated **Hugging Face Transformers** for contextual embeddings and fine-tuned RoBERTa on real-world datasets.
+### 2. Twitter Sentiment Analysis Using RoBERTa
+- **Description**: Analyzed airline-related tweets to classify sentiments using the **RoBERTa** NLP model.
+- **Key Highlights**:
+  - Achieved an F1-Score of **85.2%**.
+  - Fine-tuned pretrained RoBERTa using **Hugging Face Transformers**.
+- **Tools**: Python, TensorFlow, and Matplotlib.
 
-### 2. **[Human-Computer Interaction for Rock Climbers](#)**
+### 3. EuroConnect Telecom App
+- **Description**: Developed a desktop application for optimizing telecommunication networks using Minimum Spanning Tree (MST) algorithms.
+- **Features**:
+  - Built-in file handling and robust GUI.
+  - Functional programming paradigms implemented in **Scala** and **Kotlin**.
+- **Technology Stack**: Kotlin, Scala, and JavaFX.
+
+### 4. Human-Computer Interaction for Rock Climbers
 - Designed a **mobile app** tailored for outdoor rock climbers in the UK, emphasizing usability, safety, and engagement.
 - Implemented features like **real-time weather updates**, climb logging, and community forums based on **HCI principles**.
 - Prototyped using **Axure RP** and tested for usability with industry-standard metrics.
-
-### 3. **[Mobile App for Outdoor Rock Climbers](#)**
-- Focused on usability and accessibility through adaptive interfaces and gamification.
-- Introduced innovative features like **Dark Mode**, haptic feedback, and route recommendations to enhance user experience.
-
-### 4. **[Proposal for Final Year Project](#)**
-- Explored AI-driven personalized recommendations and gamification for fitness and sports.
 
 ---
 
@@ -92,9 +105,21 @@ Here are some of the projects I’ve worked on during my studies:
 ---
 
 ## ✨ Future Goals
-- Expand expertise in **Augmented Reality (AR)** and **Gamification** for mobile applications.
-- Explore **AI-driven analytics** for real-time decision-making in sports and fitness domains.
-- Contribute to open-source projects and build tools to empower developers worldwide.
+1. **Advance Multimodal AI**:
+   - Explore multimodal datasets for more inclusive and robust emotion recognition models.
+   - Research applications of multimodal AI in other domains like mental health and education.
+
+2. **Enhance Accessibility in Technology**:
+   - Develop tools focusing on user-centered designs for neurodivergent populations.
+   - Incorporate advanced accessibility features like adaptive interfaces and haptic feedback.
+
+3. **Expand Expertise in Machine Learning**:
+   - Deepen my knowledge of **transformer architectures** and **GANs** for generative AI.
+   - Apply machine learning to develop scalable and real-time decision-making systems.
+
+4. **Contribute to Open-Source Projects**:
+   - Collaborate on accessible tech solutions for social impact.
+   - Share knowledge through public repositories, workshops, and technical blogs.
 
 
 
