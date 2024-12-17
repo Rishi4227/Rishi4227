@@ -90,9 +90,9 @@ Here are some of the projects I’ve worked on during my studies:
 ---
 
 ## 🌐 Find me on
-- [Portfolio](#) *(Add your portfolio link here)*  
-- [LinkedIn](https://www.linkedin.com/in/rishi-patel/)  
-- [Blog](#) *(If applicable, add your blog link)*  
+- [Portfolio](https://rishi4227.github.io) 
+- [LinkedIn](#)*(kept it private for now)*
+- [Blog](#) *(Currently no blogs for now)*  
 
 ---
 
